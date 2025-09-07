@@ -274,7 +274,7 @@ policy_net, rewards = train_dqn(
 print("DQN training finished.")
 
 optimal_policy = extract_policy(policy_net, env)
-print("\nOptimal Policy (1-选择采纳, 0-不采纳):")
+print("\nOptimal Policy (1-Implement, 0-Drop):")
 print(optimal_policy)
 
 optimal_policy_int = [int(a) for a in optimal_policy]
