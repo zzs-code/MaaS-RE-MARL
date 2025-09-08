@@ -1,5 +1,5 @@
 #
-# (2024/09) author: Zhengshu Zhou (shu@ertl.jp)
+# (2025/09) author: Zhengshu Zhou (shu@ertl.jp)
 #
 # Method: System resilience strategy screening using multi-agent reinforcement learning
 # Input:  Resilience strategy pool (a table in PostgreSQL DB)
